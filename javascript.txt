@@ -1,0 +1,6 @@
+document.getElementById('opportunityForm').addEventListener('submit', function(e) {
+    e.preventDefault();
+    
+    // Aqui você pode adicionar código para lidar com os dados do formulário
+    alert('Oportunidade Registrada!');
+});
